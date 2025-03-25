@@ -1,0 +1,1001 @@
+Supplier_Performance,Past_Delays,Weather_Condition,Distance_km,Status
+2,2,Cloudy,27,Delayed
+0,3,Sunny,817,Delayed
+0,0,Snow,689,Delayed
+4,0,Cloudy,698,Delayed
+5,0,Heavy Rain,650,On-Time
+0,9,Cloudy,395,Delayed
+0,8,Cloudy,200,Delayed
+0,7,Partly Cloudy,634,Delayed
+5,10,Partly Cloudy,842,On-Time
+1,8,Snow,764,Delayed
+4,9,Cloudy,714,Delayed
+4,2,Thunderstorm,28,On-Time
+5,5,Heavy Rain,924,On-Time
+4,2,Thunderstorm,860,Delayed
+3,1,Snow,449,Delayed
+2,8,Thunderstorm,58,Delayed
+4,1,Snow,416,On-Time
+4,0,Snow,265,On-Time
+3,8,Heavy Rain,789,Delayed
+4,7,Snow,78,On-Time
+2,8,Thunderstorm,882,Delayed
+3,7,Heavy Rain,962,Delayed
+4,1,Thunderstorm,552,On-Time
+3,0,Sunny,238,On-Time
+3,8,Rain,220,Delayed
+5,4,Partly Cloudy,719,On-Time
+0,8,Fog,785,Delayed
+0,0,Partly Cloudy,449,Delayed
+1,0,Thunderstorm,52,Delayed
+4,2,Thunderstorm,424,Delayed
+5,1,Fog,458,Delayed
+2,4,Fog,617,Delayed
+3,2,Heavy Rain,23,Delayed
+3,5,Heavy Rain,486,On-Time
+2,10,Sunny,346,Delayed
+3,0,Thunderstorm,386,Delayed
+2,0,Heavy Rain,887,Delayed
+3,4,Thunderstorm,55,On-Time
+3,7,Cloudy,297,On-Time
+3,5,Rain,266,Delayed
+5,1,Fog,839,Delayed
+1,7,Thunderstorm,999,Delayed
+2,0,Partly Cloudy,295,On-Time
+2,9,Rain,617,Delayed
+0,9,Cloudy,750,Delayed
+4,9,Fog,81,Delayed
+0,10,Fog,557,Delayed
+5,7,Sunny,938,Delayed
+0,5,Fog,946,Delayed
+5,5,Snow,756,Delayed
+5,0,Heavy Rain,296,Delayed
+4,8,Heavy Rain,543,Delayed
+5,2,Fog,992,Delayed
+2,7,Rain,57,Delayed
+0,1,Partly Cloudy,543,On-Time
+5,5,Partly Cloudy,463,On-Time
+0,8,Fog,507,Delayed
+0,6,Snow,554,Delayed
+2,9,Snow,224,Delayed
+4,6,Snow,58,Delayed
+5,9,Rain,800,Delayed
+3,5,Snow,238,Delayed
+1,2,Sunny,706,On-Time
+3,5,Thunderstorm,389,On-Time
+1,9,Partly Cloudy,441,Delayed
+5,4,Partly Cloudy,648,On-Time
+3,0,Snow,399,On-Time
+3,6,Fog,332,Delayed
+5,8,Snow,66,On-Time
+5,4,Heavy Rain,418,On-Time
+4,7,Cloudy,100,Delayed
+5,8,Snow,825,Delayed
+1,2,Fog,775,Delayed
+0,3,Fog,896,Delayed
+3,10,Thunderstorm,989,Delayed
+3,9,Heavy Rain,296,On-Time
+3,9,Snow,610,Delayed
+3,2,Thunderstorm,57,Delayed
+5,4,Cloudy,874,On-Time
+5,10,Fog,408,Delayed
+4,4,Rain,119,On-Time
+1,4,Heavy Rain,888,Delayed
+0,3,Rain,977,Delayed
+4,7,Thunderstorm,96,Delayed
+4,10,Rain,714,Delayed
+2,4,Fog,308,On-Time
+0,3,Thunderstorm,338,Delayed
+5,10,Snow,907,Delayed
+0,2,Sunny,538,Delayed
+1,7,Partly Cloudy,513,Delayed
+3,1,Snow,25,On-Time
+2,3,Fog,199,Delayed
+4,5,Partly Cloudy,922,Delayed
+2,0,Heavy Rain,832,Delayed
+5,4,Heavy Rain,142,On-Time
+2,8,Thunderstorm,741,Delayed
+0,0,Snow,578,Delayed
+5,7,Fog,313,On-Time
+0,7,Thunderstorm,587,Delayed
+3,2,Rain,220,Delayed
+1,2,Rain,603,Delayed
+0,0,Partly Cloudy,569,Delayed
+0,2,Rain,351,Delayed
+5,1,Fog,325,On-Time
+2,7,Fog,832,Delayed
+0,10,Fog,339,Delayed
+2,6,Partly Cloudy,317,Delayed
+4,8,Snow,484,On-Time
+2,2,Thunderstorm,757,Delayed
+2,7,Snow,556,Delayed
+3,0,Cloudy,135,On-Time
+2,10,Thunderstorm,22,Delayed
+1,10,Partly Cloudy,279,Delayed
+3,1,Thunderstorm,224,On-Time
+5,8,Fog,895,Delayed
+5,2,Cloudy,205,On-Time
+0,10,Thunderstorm,283,Delayed
+1,0,Rain,130,Delayed
+3,3,Cloudy,63,On-Time
+3,4,Fog,642,Delayed
+1,5,Partly Cloudy,580,Delayed
+1,7,Rain,814,Delayed
+0,10,Partly Cloudy,753,Delayed
+0,9,Rain,276,Delayed
+0,6,Heavy Rain,535,Delayed
+4,6,Snow,446,Delayed
+0,5,Thunderstorm,336,On-Time
+1,2,Fog,648,Delayed
+1,7,Sunny,26,Delayed
+0,0,Sunny,176,Delayed
+5,8,Thunderstorm,888,Delayed
+0,2,Sunny,341,Delayed
+1,6,Fog,213,Delayed
+5,3,Fog,51,Delayed
+0,3,Snow,80,Delayed
+5,10,Partly Cloudy,286,On-Time
+4,7,Partly Cloudy,837,Delayed
+1,7,Fog,629,Delayed
+2,10,Rain,130,Delayed
+1,5,Rain,441,Delayed
+2,5,Snow,347,On-Time
+4,10,Partly Cloudy,534,Delayed
+3,9,Rain,671,Delayed
+2,7,Partly Cloudy,200,Delayed
+4,2,Heavy Rain,353,Delayed
+3,10,Cloudy,554,Delayed
+2,0,Sunny,855,Delayed
+0,4,Sunny,591,Delayed
+4,0,Sunny,805,On-Time
+1,7,Partly Cloudy,860,Delayed
+1,7,Heavy Rain,113,Delayed
+0,2,Sunny,291,On-Time
+0,7,Thunderstorm,494,Delayed
+1,4,Rain,311,Delayed
+1,8,Heavy Rain,602,Delayed
+4,0,Partly Cloudy,29,Delayed
+4,0,Partly Cloudy,949,On-Time
+0,0,Sunny,199,Delayed
+5,7,Cloudy,694,On-Time
+0,7,Heavy Rain,229,Delayed
+1,2,Cloudy,669,Delayed
+0,10,Snow,590,Delayed
+4,4,Thunderstorm,188,On-Time
+2,8,Snow,961,Delayed
+0,7,Rain,517,Delayed
+2,9,Snow,56,Delayed
+2,10,Snow,158,Delayed
+3,4,Rain,478,On-Time
+2,0,Thunderstorm,569,Delayed
+4,6,Partly Cloudy,873,Delayed
+0,1,Heavy Rain,521,Delayed
+3,8,Sunny,471,Delayed
+5,4,Partly Cloudy,921,On-Time
+0,2,Heavy Rain,798,Delayed
+5,0,Cloudy,386,On-Time
+3,4,Fog,216,Delayed
+1,1,Sunny,776,Delayed
+5,5,Fog,264,Delayed
+1,1,Rain,965,Delayed
+4,7,Partly Cloudy,709,Delayed
+4,1,Rain,440,On-Time
+2,0,Fog,393,Delayed
+3,4,Heavy Rain,375,Delayed
+4,3,Fog,744,On-Time
+4,10,Snow,224,Delayed
+2,7,Cloudy,761,Delayed
+0,1,Heavy Rain,50,Delayed
+5,0,Snow,376,On-Time
+0,3,Cloudy,801,Delayed
+2,8,Partly Cloudy,49,Delayed
+5,10,Rain,808,Delayed
+4,1,Fog,219,Delayed
+2,5,Cloudy,620,Delayed
+2,7,Partly Cloudy,231,On-Time
+0,6,Sunny,778,On-Time
+4,5,Partly Cloudy,333,Delayed
+1,8,Partly Cloudy,50,Delayed
+2,1,Sunny,542,On-Time
+4,8,Snow,549,Delayed
+0,0,Cloudy,753,Delayed
+4,6,Rain,789,Delayed
+0,10,Sunny,373,Delayed
+4,8,Snow,623,Delayed
+5,10,Sunny,962,Delayed
+2,7,Partly Cloudy,970,Delayed
+2,10,Partly Cloudy,588,Delayed
+0,0,Sunny,733,Delayed
+0,5,Snow,987,Delayed
+1,10,Cloudy,666,Delayed
+0,3,Cloudy,125,Delayed
+5,1,Heavy Rain,681,Delayed
+3,7,Fog,447,Delayed
+1,7,Fog,415,Delayed
+4,10,Snow,914,Delayed
+4,5,Partly Cloudy,248,On-Time
+1,8,Thunderstorm,196,Delayed
+2,0,Thunderstorm,829,Delayed
+4,8,Snow,146,Delayed
+1,4,Thunderstorm,145,Delayed
+0,1,Snow,578,Delayed
+0,10,Snow,493,Delayed
+4,10,Thunderstorm,230,On-Time
+1,2,Heavy Rain,498,On-Time
+4,0,Partly Cloudy,872,Delayed
+4,7,Partly Cloudy,814,Delayed
+3,6,Rain,802,Delayed
+1,3,Thunderstorm,177,Delayed
+0,0,Fog,190,On-Time
+5,8,Snow,683,Delayed
+5,6,Thunderstorm,745,Delayed
+1,3,Fog,624,Delayed
+2,6,Partly Cloudy,129,Delayed
+1,10,Cloudy,523,Delayed
+4,7,Thunderstorm,311,Delayed
+4,5,Thunderstorm,442,Delayed
+5,3,Partly Cloudy,248,On-Time
+3,3,Rain,951,Delayed
+4,4,Thunderstorm,618,On-Time
+4,1,Sunny,291,On-Time
+3,5,Thunderstorm,869,On-Time
+0,0,Snow,514,Delayed
+1,1,Snow,176,Delayed
+2,2,Snow,674,Delayed
+0,10,Thunderstorm,196,Delayed
+1,9,Heavy Rain,811,Delayed
+4,5,Heavy Rain,190,On-Time
+4,10,Fog,787,Delayed
+2,6,Thunderstorm,544,Delayed
+1,3,Fog,897,Delayed
+1,6,Snow,510,Delayed
+3,9,Partly Cloudy,598,Delayed
+0,9,Fog,925,Delayed
+0,7,Fog,911,Delayed
+3,4,Thunderstorm,283,On-Time
+1,8,Heavy Rain,649,Delayed
+4,10,Partly Cloudy,568,Delayed
+2,6,Thunderstorm,848,Delayed
+2,4,Partly Cloudy,420,On-Time
+5,3,Cloudy,349,On-Time
+0,3,Thunderstorm,623,Delayed
+4,10,Thunderstorm,580,Delayed
+5,6,Cloudy,963,Delayed
+0,0,Partly Cloudy,77,On-Time
+1,3,Heavy Rain,104,Delayed
+5,8,Snow,524,Delayed
+1,7,Rain,399,Delayed
+2,3,Heavy Rain,46,Delayed
+5,0,Thunderstorm,585,Delayed
+5,8,Thunderstorm,441,Delayed
+0,10,Cloudy,445,On-Time
+2,4,Sunny,110,Delayed
+4,3,Cloudy,314,On-Time
+3,10,Partly Cloudy,541,Delayed
+1,3,Rain,65,Delayed
+4,10,Partly Cloudy,101,On-Time
+2,5,Snow,636,Delayed
+4,4,Cloudy,881,Delayed
+1,10,Fog,215,Delayed
+2,10,Snow,94,Delayed
+5,4,Cloudy,344,On-Time
+4,8,Rain,872,Delayed
+5,2,Thunderstorm,991,Delayed
+4,5,Partly Cloudy,101,On-Time
+1,10,Thunderstorm,354,Delayed
+4,8,Cloudy,356,On-Time
+4,1,Cloudy,516,On-Time
+0,4,Sunny,412,On-Time
+4,9,Cloudy,455,Delayed
+1,10,Fog,355,Delayed
+0,6,Sunny,65,Delayed
+0,6,Partly Cloudy,34,Delayed
+1,6,Thunderstorm,126,Delayed
+3,7,Cloudy,248,Delayed
+1,7,Partly Cloudy,202,Delayed
+3,10,Partly Cloudy,45,On-Time
+3,1,Rain,188,Delayed
+0,8,Thunderstorm,805,Delayed
+3,6,Partly Cloudy,878,On-Time
+0,4,Thunderstorm,605,Delayed
+5,5,Cloudy,745,On-Time
+3,3,Snow,470,On-Time
+4,7,Thunderstorm,999,Delayed
+5,6,Snow,301,Delayed
+0,7,Fog,673,Delayed
+1,8,Fog,394,Delayed
+3,4,Thunderstorm,107,Delayed
+5,1,Cloudy,967,On-Time
+0,9,Snow,423,Delayed
+5,1,Fog,743,Delayed
+3,2,Cloudy,940,Delayed
+1,8,Sunny,390,Delayed
+2,0,Cloudy,963,On-Time
+1,5,Partly Cloudy,124,On-Time
+3,7,Rain,810,On-Time
+2,2,Thunderstorm,560,Delayed
+5,9,Partly Cloudy,874,On-Time
+5,5,Fog,592,Delayed
+0,6,Cloudy,151,Delayed
+1,0,Fog,520,Delayed
+2,2,Fog,674,Delayed
+4,4,Partly Cloudy,753,Delayed
+4,2,Sunny,102,Delayed
+0,9,Rain,501,Delayed
+3,5,Rain,380,On-Time
+0,2,Sunny,602,Delayed
+4,10,Thunderstorm,39,Delayed
+2,4,Partly Cloudy,836,On-Time
+5,9,Heavy Rain,742,Delayed
+2,8,Cloudy,25,Delayed
+0,9,Partly Cloudy,807,Delayed
+4,4,Rain,33,Delayed
+5,7,Fog,159,Delayed
+4,4,Cloudy,437,On-Time
+2,8,Sunny,307,Delayed
+4,5,Snow,355,On-Time
+4,10,Heavy Rain,825,Delayed
+3,4,Partly Cloudy,775,On-Time
+1,4,Thunderstorm,581,Delayed
+1,6,Thunderstorm,565,Delayed
+4,2,Thunderstorm,117,On-Time
+1,4,Cloudy,312,On-Time
+5,6,Fog,375,Delayed
+1,0,Snow,521,Delayed
+3,7,Heavy Rain,678,Delayed
+3,4,Fog,288,Delayed
+5,3,Heavy Rain,392,On-Time
+0,7,Thunderstorm,410,Delayed
+5,1,Rain,617,On-Time
+2,2,Partly Cloudy,486,Delayed
+5,0,Partly Cloudy,464,On-Time
+5,0,Thunderstorm,363,Delayed
+1,0,Partly Cloudy,426,Delayed
+4,4,Partly Cloudy,573,On-Time
+5,6,Snow,425,Delayed
+3,4,Partly Cloudy,724,On-Time
+5,5,Heavy Rain,302,On-Time
+5,2,Thunderstorm,978,Delayed
+0,3,Rain,512,Delayed
+3,5,Partly Cloudy,594,On-Time
+2,0,Snow,560,Delayed
+4,7,Snow,197,On-Time
+3,3,Thunderstorm,427,Delayed
+1,4,Partly Cloudy,429,Delayed
+0,6,Partly Cloudy,815,Delayed
+5,1,Rain,763,Delayed
+3,2,Heavy Rain,86,On-Time
+0,2,Heavy Rain,56,Delayed
+3,7,Heavy Rain,365,Delayed
+3,4,Thunderstorm,744,Delayed
+1,5,Heavy Rain,316,On-Time
+3,1,Fog,57,On-Time
+0,10,Heavy Rain,121,Delayed
+0,4,Heavy Rain,599,Delayed
+1,2,Partly Cloudy,381,Delayed
+3,5,Cloudy,104,On-Time
+3,0,Thunderstorm,303,On-Time
+2,4,Cloudy,827,On-Time
+2,2,Heavy Rain,620,Delayed
+1,5,Heavy Rain,52,On-Time
+4,3,Rain,424,Delayed
+4,2,Sunny,353,On-Time
+1,7,Rain,539,Delayed
+1,6,Thunderstorm,244,Delayed
+1,6,Partly Cloudy,380,Delayed
+2,2,Rain,958,Delayed
+2,10,Sunny,436,On-Time
+3,5,Cloudy,844,Delayed
+0,4,Thunderstorm,792,Delayed
+5,1,Fog,897,Delayed
+5,8,Partly Cloudy,351,On-Time
+4,8,Fog,673,Delayed
+5,4,Partly Cloudy,210,Delayed
+3,5,Thunderstorm,111,Delayed
+4,10,Rain,166,Delayed
+3,6,Sunny,151,Delayed
+0,4,Heavy Rain,661,Delayed
+3,8,Fog,168,Delayed
+4,8,Fog,83,Delayed
+2,9,Fog,789,Delayed
+0,6,Partly Cloudy,220,On-Time
+1,3,Thunderstorm,741,Delayed
+3,7,Cloudy,661,Delayed
+1,10,Thunderstorm,509,Delayed
+3,9,Rain,48,Delayed
+5,3,Partly Cloudy,21,Delayed
+3,3,Fog,370,Delayed
+4,8,Rain,641,Delayed
+3,10,Cloudy,688,On-Time
+0,2,Fog,293,On-Time
+1,4,Partly Cloudy,165,Delayed
+4,4,Partly Cloudy,846,On-Time
+0,9,Thunderstorm,48,Delayed
+2,1,Partly Cloudy,750,On-Time
+5,0,Sunny,393,On-Time
+4,8,Snow,728,Delayed
+3,4,Heavy Rain,109,On-Time
+2,4,Partly Cloudy,266,On-Time
+1,9,Sunny,254,On-Time
+4,6,Cloudy,335,On-Time
+0,1,Fog,528,Delayed
+1,3,Sunny,363,On-Time
+0,9,Sunny,843,Delayed
+0,1,Thunderstorm,345,On-Time
+4,4,Partly Cloudy,385,On-Time
+4,4,Snow,256,Delayed
+3,2,Fog,260,On-Time
+1,2,Rain,956,Delayed
+3,8,Rain,627,Delayed
+3,0,Cloudy,650,On-Time
+2,3,Thunderstorm,846,Delayed
+1,8,Thunderstorm,835,Delayed
+1,7,Cloudy,955,Delayed
+0,4,Partly Cloudy,598,On-Time
+3,8,Rain,453,Delayed
+4,10,Fog,633,Delayed
+1,7,Sunny,383,Delayed
+0,1,Snow,69,On-Time
+5,3,Snow,912,Delayed
+3,10,Thunderstorm,766,Delayed
+3,2,Cloudy,120,Delayed
+0,5,Fog,639,Delayed
+3,2,Snow,935,On-Time
+5,0,Heavy Rain,720,Delayed
+2,2,Sunny,716,Delayed
+5,8,Cloudy,879,On-Time
+3,6,Fog,313,Delayed
+4,4,Rain,926,On-Time
+3,0,Fog,332,Delayed
+3,7,Heavy Rain,137,On-Time
+0,5,Fog,823,Delayed
+3,4,Heavy Rain,614,Delayed
+5,0,Rain,645,On-Time
+4,4,Rain,506,On-Time
+1,6,Fog,527,Delayed
+3,1,Sunny,400,On-Time
+2,0,Thunderstorm,799,Delayed
+0,9,Rain,55,Delayed
+1,3,Rain,252,Delayed
+4,2,Fog,982,Delayed
+4,2,Thunderstorm,798,Delayed
+4,9,Sunny,411,Delayed
+5,4,Heavy Rain,667,Delayed
+5,7,Sunny,59,On-Time
+4,6,Sunny,851,On-Time
+4,7,Heavy Rain,541,Delayed
+0,5,Sunny,324,On-Time
+0,8,Fog,826,Delayed
+3,6,Snow,303,Delayed
+5,0,Cloudy,578,On-Time
+0,0,Thunderstorm,994,Delayed
+3,3,Heavy Rain,397,On-Time
+3,5,Partly Cloudy,613,On-Time
+4,4,Fog,352,On-Time
+4,2,Snow,176,Delayed
+0,1,Snow,660,Delayed
+5,4,Thunderstorm,567,Delayed
+2,0,Rain,891,Delayed
+1,5,Cloudy,81,On-Time
+3,9,Heavy Rain,170,Delayed
+2,2,Fog,677,Delayed
+0,9,Fog,945,Delayed
+2,5,Rain,329,Delayed
+4,5,Thunderstorm,914,Delayed
+0,9,Snow,270,Delayed
+3,4,Partly Cloudy,246,On-Time
+5,7,Thunderstorm,881,Delayed
+5,9,Cloudy,370,On-Time
+4,0,Rain,51,On-Time
+5,0,Rain,920,Delayed
+3,10,Rain,463,On-Time
+5,8,Sunny,107,On-Time
+5,9,Partly Cloudy,747,Delayed
+1,10,Partly Cloudy,800,Delayed
+5,0,Thunderstorm,379,On-Time
+5,2,Fog,98,On-Time
+5,8,Fog,361,Delayed
+5,3,Thunderstorm,536,Delayed
+2,6,Sunny,901,Delayed
+3,0,Snow,931,Delayed
+1,0,Heavy Rain,632,Delayed
+1,8,Partly Cloudy,121,Delayed
+3,7,Sunny,861,On-Time
+1,0,Thunderstorm,417,Delayed
+0,2,Fog,642,Delayed
+5,3,Heavy Rain,36,On-Time
+1,10,Rain,831,Delayed
+4,1,Partly Cloudy,566,On-Time
+4,6,Rain,279,Delayed
+1,4,Fog,943,Delayed
+1,10,Snow,263,Delayed
+2,9,Heavy Rain,282,Delayed
+1,9,Partly Cloudy,856,Delayed
+4,6,Snow,853,Delayed
+4,8,Heavy Rain,497,Delayed
+1,2,Snow,330,Delayed
+4,0,Partly Cloudy,982,On-Time
+5,3,Cloudy,988,On-Time
+0,3,Cloudy,731,Delayed
+4,0,Snow,434,Delayed
+1,0,Thunderstorm,453,Delayed
+2,4,Rain,801,Delayed
+3,9,Thunderstorm,433,Delayed
+0,4,Rain,929,Delayed
+3,9,Sunny,186,On-Time
+0,2,Partly Cloudy,777,Delayed
+5,0,Thunderstorm,182,Delayed
+0,7,Snow,243,Delayed
+3,7,Sunny,676,Delayed
+1,8,Cloudy,76,Delayed
+2,6,Snow,793,Delayed
+3,0,Snow,519,Delayed
+1,6,Rain,165,Delayed
+0,9,Cloudy,351,Delayed
+3,4,Fog,406,Delayed
+0,10,Heavy Rain,987,Delayed
+4,5,Rain,863,On-Time
+4,9,Rain,675,Delayed
+2,5,Fog,806,Delayed
+0,8,Snow,699,Delayed
+5,7,Heavy Rain,998,Delayed
+2,1,Partly Cloudy,776,On-Time
+5,1,Fog,901,Delayed
+1,6,Thunderstorm,842,Delayed
+5,4,Sunny,112,On-Time
+3,0,Partly Cloudy,485,Delayed
+1,6,Cloudy,975,Delayed
+4,2,Partly Cloudy,553,On-Time
+4,10,Sunny,738,Delayed
+2,8,Partly Cloudy,842,Delayed
+4,6,Cloudy,688,Delayed
+0,4,Heavy Rain,874,Delayed
+5,3,Rain,427,Delayed
+5,4,Sunny,671,On-Time
+3,7,Thunderstorm,728,Delayed
+5,1,Snow,22,Delayed
+3,8,Heavy Rain,271,Delayed
+2,7,Partly Cloudy,45,Delayed
+2,1,Thunderstorm,160,Delayed
+0,2,Sunny,290,Delayed
+5,6,Rain,367,Delayed
+5,4,Thunderstorm,114,Delayed
+0,6,Partly Cloudy,20,On-Time
+2,7,Snow,138,Delayed
+1,3,Snow,890,Delayed
+0,5,Snow,781,Delayed
+2,8,Rain,110,Delayed
+4,5,Snow,161,Delayed
+3,9,Partly Cloudy,858,Delayed
+5,3,Sunny,959,On-Time
+2,9,Thunderstorm,849,Delayed
+4,8,Snow,596,Delayed
+3,9,Partly Cloudy,329,Delayed
+0,0,Snow,976,Delayed
+0,0,Fog,381,Delayed
+1,3,Partly Cloudy,375,On-Time
+0,4,Cloudy,459,On-Time
+2,3,Sunny,679,Delayed
+2,6,Fog,589,Delayed
+5,5,Sunny,172,On-Time
+4,4,Cloudy,925,Delayed
+2,3,Partly Cloudy,633,Delayed
+1,0,Heavy Rain,843,Delayed
+0,6,Snow,320,Delayed
+1,6,Thunderstorm,612,Delayed
+1,9,Sunny,663,Delayed
+5,3,Fog,767,Delayed
+5,0,Fog,386,Delayed
+4,10,Rain,673,Delayed
+2,10,Sunny,260,On-Time
+5,9,Snow,388,Delayed
+2,7,Snow,976,Delayed
+2,5,Heavy Rain,109,Delayed
+3,5,Partly Cloudy,56,On-Time
+4,4,Snow,62,On-Time
+4,1,Sunny,295,Delayed
+3,1,Fog,75,Delayed
+5,2,Snow,485,On-Time
+2,7,Cloudy,347,Delayed
+0,5,Sunny,555,On-Time
+5,10,Sunny,451,On-Time
+5,10,Sunny,450,On-Time
+1,5,Sunny,826,Delayed
+1,4,Cloudy,821,Delayed
+3,4,Heavy Rain,723,Delayed
+2,5,Rain,325,On-Time
+4,2,Partly Cloudy,62,On-Time
+5,8,Rain,546,Delayed
+0,9,Sunny,258,On-Time
+3,1,Cloudy,372,On-Time
+3,5,Snow,527,On-Time
+1,6,Heavy Rain,675,Delayed
+4,1,Heavy Rain,270,Delayed
+5,8,Sunny,718,Delayed
+4,6,Fog,399,On-Time
+5,2,Fog,753,On-Time
+5,5,Fog,898,Delayed
+2,0,Heavy Rain,138,Delayed
+2,0,Fog,795,Delayed
+1,0,Heavy Rain,652,Delayed
+0,7,Snow,604,Delayed
+3,0,Partly Cloudy,103,On-Time
+1,6,Heavy Rain,623,Delayed
+3,6,Fog,835,Delayed
+1,5,Cloudy,389,Delayed
+0,1,Fog,761,Delayed
+3,9,Fog,397,On-Time
+4,6,Partly Cloudy,841,Delayed
+4,5,Partly Cloudy,362,On-Time
+5,9,Sunny,782,On-Time
+3,1,Snow,432,On-Time
+1,5,Fog,991,Delayed
+0,7,Snow,785,Delayed
+3,1,Fog,263,Delayed
+4,1,Snow,148,Delayed
+4,6,Sunny,826,Delayed
+2,0,Snow,636,Delayed
+5,0,Sunny,338,On-Time
+1,1,Sunny,325,Delayed
+5,4,Sunny,254,On-Time
+0,2,Heavy Rain,704,Delayed
+1,8,Rain,798,Delayed
+5,2,Snow,62,On-Time
+4,5,Fog,507,Delayed
+5,6,Rain,102,Delayed
+2,1,Sunny,297,On-Time
+5,9,Partly Cloudy,177,Delayed
+4,8,Rain,459,Delayed
+5,1,Heavy Rain,452,On-Time
+0,4,Thunderstorm,562,Delayed
+0,9,Cloudy,593,Delayed
+0,4,Sunny,80,Delayed
+1,1,Snow,910,Delayed
+4,7,Rain,801,Delayed
+0,10,Sunny,568,Delayed
+0,4,Cloudy,588,Delayed
+5,8,Sunny,11,On-Time
+4,10,Partly Cloudy,152,On-Time
+2,4,Thunderstorm,200,Delayed
+5,9,Snow,701,Delayed
+3,0,Partly Cloudy,167,On-Time
+0,4,Snow,706,Delayed
+0,0,Sunny,419,On-Time
+1,3,Fog,802,Delayed
+4,9,Sunny,329,On-Time
+3,8,Rain,966,Delayed
+5,7,Rain,878,Delayed
+4,0,Cloudy,906,On-Time
+2,7,Sunny,898,On-Time
+2,10,Sunny,818,Delayed
+4,0,Fog,515,Delayed
+5,0,Rain,709,Delayed
+0,7,Thunderstorm,870,Delayed
+5,10,Thunderstorm,199,Delayed
+2,1,Snow,916,Delayed
+1,5,Partly Cloudy,39,On-Time
+0,2,Thunderstorm,579,Delayed
+0,6,Sunny,594,Delayed
+0,7,Snow,739,Delayed
+0,7,Thunderstorm,704,Delayed
+2,4,Snow,371,Delayed
+4,0,Rain,556,Delayed
+1,2,Fog,145,On-Time
+4,9,Cloudy,117,On-Time
+5,6,Fog,154,On-Time
+3,5,Partly Cloudy,624,Delayed
+2,0,Heavy Rain,513,Delayed
+3,8,Cloudy,389,On-Time
+3,0,Snow,27,Delayed
+2,0,Fog,164,Delayed
+1,6,Heavy Rain,863,Delayed
+2,10,Snow,931,Delayed
+5,7,Heavy Rain,611,Delayed
+4,9,Fog,914,Delayed
+1,0,Partly Cloudy,421,On-Time
+3,3,Fog,814,Delayed
+1,1,Thunderstorm,412,Delayed
+5,10,Cloudy,374,On-Time
+3,8,Cloudy,366,Delayed
+5,0,Thunderstorm,239,On-Time
+2,0,Snow,516,Delayed
+1,1,Fog,164,Delayed
+3,6,Heavy Rain,453,Delayed
+5,0,Snow,357,Delayed
+1,2,Thunderstorm,529,Delayed
+2,1,Cloudy,439,Delayed
+3,2,Snow,267,On-Time
+3,8,Rain,520,Delayed
+5,8,Cloudy,229,On-Time
+1,4,Heavy Rain,605,Delayed
+2,2,Fog,22,Delayed
+0,9,Sunny,716,On-Time
+2,5,Sunny,952,Delayed
+5,6,Snow,938,Delayed
+2,6,Thunderstorm,820,Delayed
+3,2,Cloudy,883,Delayed
+2,9,Partly Cloudy,204,Delayed
+2,4,Rain,506,Delayed
+3,4,Sunny,304,On-Time
+0,0,Heavy Rain,975,Delayed
+2,4,Thunderstorm,838,Delayed
+1,8,Thunderstorm,722,Delayed
+2,3,Rain,887,Delayed
+5,4,Snow,456,Delayed
+0,3,Snow,154,Delayed
+4,9,Cloudy,807,On-Time
+1,0,Sunny,229,On-Time
+1,6,Heavy Rain,234,Delayed
+5,10,Partly Cloudy,197,On-Time
+3,2,Heavy Rain,841,Delayed
+4,9,Partly Cloudy,863,Delayed
+0,5,Sunny,661,Delayed
+4,3,Thunderstorm,534,Delayed
+5,6,Partly Cloudy,246,On-Time
+2,7,Thunderstorm,775,Delayed
+0,3,Thunderstorm,516,Delayed
+0,6,Thunderstorm,416,Delayed
+1,8,Partly Cloudy,398,Delayed
+4,4,Cloudy,880,On-Time
+5,4,Fog,825,Delayed
+0,10,Rain,923,Delayed
+2,4,Thunderstorm,906,Delayed
+4,8,Sunny,266,Delayed
+0,2,Cloudy,253,Delayed
+0,4,Fog,825,Delayed
+1,5,Thunderstorm,286,Delayed
+2,10,Cloudy,988,Delayed
+2,8,Thunderstorm,222,Delayed
+1,6,Heavy Rain,510,Delayed
+3,8,Rain,401,Delayed
+5,9,Fog,124,Delayed
+0,4,Rain,747,Delayed
+0,8,Thunderstorm,533,Delayed
+3,0,Heavy Rain,952,On-Time
+5,0,Snow,975,On-Time
+0,5,Heavy Rain,985,Delayed
+5,3,Snow,881,Delayed
+2,4,Snow,630,Delayed
+2,7,Cloudy,901,Delayed
+4,8,Fog,789,Delayed
+1,8,Thunderstorm,557,Delayed
+2,2,Cloudy,20,Delayed
+1,2,Snow,214,Delayed
+1,8,Thunderstorm,662,Delayed
+0,9,Snow,807,Delayed
+3,2,Fog,10,Delayed
+0,9,Heavy Rain,582,Delayed
+3,3,Sunny,802,Delayed
+4,1,Heavy Rain,398,On-Time
+2,10,Partly Cloudy,107,Delayed
+0,6,Cloudy,248,Delayed
+3,8,Heavy Rain,287,Delayed
+5,8,Heavy Rain,123,Delayed
+2,1,Fog,107,Delayed
+4,2,Thunderstorm,300,Delayed
+2,6,Thunderstorm,938,Delayed
+1,3,Snow,476,Delayed
+4,2,Sunny,674,Delayed
+1,10,Cloudy,301,Delayed
+3,6,Rain,513,On-Time
+1,6,Rain,85,Delayed
+2,9,Heavy Rain,917,Delayed
+1,3,Sunny,140,On-Time
+4,2,Rain,685,Delayed
+1,7,Snow,63,Delayed
+2,0,Snow,487,Delayed
+2,9,Cloudy,163,On-Time
+0,10,Snow,722,Delayed
+1,0,Rain,654,Delayed
+1,10,Sunny,679,Delayed
+5,8,Partly Cloudy,750,On-Time
+3,6,Partly Cloudy,198,Delayed
+5,9,Thunderstorm,60,Delayed
+1,6,Cloudy,710,Delayed
+4,10,Thunderstorm,877,Delayed
+4,0,Heavy Rain,852,Delayed
+1,3,Rain,218,Delayed
+0,2,Rain,736,Delayed
+2,5,Snow,43,Delayed
+1,2,Snow,433,Delayed
+1,10,Thunderstorm,960,Delayed
+1,2,Heavy Rain,42,Delayed
+1,4,Sunny,785,On-Time
+1,4,Snow,419,On-Time
+0,0,Partly Cloudy,634,Delayed
+4,1,Thunderstorm,364,Delayed
+2,0,Sunny,624,On-Time
+0,0,Fog,393,Delayed
+2,7,Heavy Rain,610,Delayed
+4,0,Fog,679,On-Time
+1,10,Rain,327,Delayed
+1,9,Cloudy,591,Delayed
+5,6,Thunderstorm,495,Delayed
+1,0,Cloudy,570,Delayed
+5,5,Snow,232,On-Time
+4,0,Heavy Rain,907,Delayed
+0,2,Cloudy,321,On-Time
+4,7,Rain,994,Delayed
+3,9,Thunderstorm,71,Delayed
+3,9,Cloudy,467,On-Time
+5,9,Heavy Rain,561,Delayed
+2,8,Heavy Rain,619,Delayed
+1,10,Sunny,633,Delayed
+4,9,Fog,93,Delayed
+3,2,Snow,241,Delayed
+3,0,Sunny,846,On-Time
+3,5,Rain,996,Delayed
+4,7,Snow,68,Delayed
+0,9,Snow,671,Delayed
+5,10,Partly Cloudy,540,Delayed
+1,5,Snow,623,Delayed
+0,6,Rain,759,Delayed
+1,3,Thunderstorm,751,Delayed
+3,6,Sunny,818,Delayed
+2,9,Sunny,182,Delayed
+0,10,Fog,256,Delayed
+4,0,Heavy Rain,647,On-Time
+5,3,Thunderstorm,220,On-Time
+4,8,Snow,440,Delayed
+1,9,Cloudy,390,Delayed
+5,4,Partly Cloudy,648,Delayed
+0,3,Cloudy,48,Delayed
+4,8,Partly Cloudy,990,Delayed
+4,6,Sunny,196,Delayed
+5,9,Heavy Rain,725,Delayed
+0,6,Fog,410,Delayed
+4,7,Fog,368,Delayed
+2,9,Thunderstorm,108,Delayed
+0,0,Rain,123,Delayed
+2,7,Thunderstorm,307,Delayed
+0,10,Cloudy,239,Delayed
+3,2,Fog,437,Delayed
+2,5,Thunderstorm,566,Delayed
+3,6,Rain,289,Delayed
+3,9,Partly Cloudy,91,Delayed
+3,3,Thunderstorm,919,Delayed
+0,1,Rain,612,Delayed
+2,3,Partly Cloudy,92,On-Time
+3,4,Rain,263,Delayed
+5,8,Partly Cloudy,801,Delayed
+2,6,Thunderstorm,955,Delayed
+4,7,Heavy Rain,689,Delayed
+0,9,Thunderstorm,443,Delayed
+2,5,Rain,496,Delayed
+0,8,Partly Cloudy,726,Delayed
+1,2,Thunderstorm,74,Delayed
+4,1,Cloudy,911,Delayed
+0,9,Fog,912,Delayed
+3,5,Partly Cloudy,871,On-Time
+0,2,Sunny,731,Delayed
+3,3,Partly Cloudy,711,Delayed
+1,9,Partly Cloudy,373,Delayed
+1,0,Rain,216,Delayed
+5,0,Cloudy,442,Delayed
+1,10,Partly Cloudy,843,Delayed
+3,2,Partly Cloudy,241,On-Time
+3,2,Snow,188,Delayed
+3,2,Thunderstorm,223,On-Time
+1,8,Sunny,511,Delayed
+0,8,Sunny,436,On-Time
+0,0,Heavy Rain,274,Delayed
+3,3,Partly Cloudy,207,On-Time
+0,3,Rain,36,Delayed
+5,6,Snow,173,Delayed
+3,2,Heavy Rain,81,On-Time
+4,9,Fog,566,Delayed
+2,9,Partly Cloudy,158,Delayed
+1,4,Cloudy,551,Delayed
+2,7,Fog,56,Delayed
+2,8,Fog,348,Delayed
+0,0,Rain,529,Delayed
+1,5,Heavy Rain,233,Delayed
+3,2,Thunderstorm,876,Delayed
+3,8,Snow,393,Delayed
+4,7,Thunderstorm,21,Delayed
+3,7,Thunderstorm,788,Delayed
+5,1,Sunny,240,On-Time
+3,7,Partly Cloudy,199,On-Time
+1,5,Thunderstorm,261,Delayed
+3,10,Rain,891,Delayed
+5,2,Cloudy,621,Delayed
+4,6,Rain,471,Delayed
+4,8,Partly Cloudy,244,Delayed
+3,5,Snow,843,Delayed
+4,7,Fog,14,Delayed
+2,2,Snow,18,On-Time
+1,7,Partly Cloudy,626,Delayed
+4,1,Cloudy,737,On-Time
+0,10,Fog,355,Delayed
+0,7,Sunny,544,Delayed
+2,3,Heavy Rain,528,Delayed
+4,1,Heavy Rain,150,On-Time
+1,8,Partly Cloudy,733,Delayed
+0,5,Heavy Rain,736,Delayed
+5,8,Fog,183,Delayed
+4,3,Cloudy,828,Delayed
+3,3,Cloudy,801,On-Time
+4,5,Sunny,127,On-Time
+3,10,Sunny,942,Delayed
+2,5,Sunny,227,On-Time
+4,7,Cloudy,728,Delayed
+3,2,Snow,463,On-Time
+0,4,Sunny,823,On-Time
+5,5,Rain,415,Delayed
+2,5,Snow,416,Delayed
+2,2,Sunny,53,On-Time
+5,4,Rain,425,Delayed
+4,1,Heavy Rain,869,On-Time
+2,1,Heavy Rain,611,Delayed
+1,4,Snow,505,Delayed
+1,6,Heavy Rain,143,Delayed
+0,3,Partly Cloudy,197,On-Time
+4,10,Rain,996,Delayed
+0,0,Rain,364,Delayed
+1,2,Rain,727,Delayed
+5,6,Fog,700,Delayed
+2,6,Heavy Rain,483,Delayed
+3,3,Rain,95,On-Time
+1,10,Snow,892,Delayed
+3,1,Fog,775,Delayed
+1,10,Partly Cloudy,392,Delayed
+4,10,Rain,110,Delayed
+1,8,Fog,239,Delayed
+4,1,Rain,92,On-Time
+2,10,Thunderstorm,316,Delayed
+1,4,Sunny,900,Delayed
+3,3,Sunny,353,On-Time
+1,10,Cloudy,575,Delayed
+4,4,Snow,158,On-Time
+0,10,Partly Cloudy,828,On-Time
+1,1,Fog,724,Delayed
+4,2,Heavy Rain,662,Delayed
+5,6,Partly Cloudy,409,Delayed
+2,10,Fog,25,Delayed
+2,2,Fog,198,Delayed
+5,8,Sunny,588,Delayed
+4,3,Heavy Rain,53,Delayed
+4,5,Heavy Rain,880,On-Time
+3,0,Rain,120,On-Time
+3,6,Heavy Rain,460,Delayed
+0,6,Cloudy,436,On-Time
+5,5,Cloudy,774,Delayed
+5,10,Snow,884,Delayed
+1,1,Cloudy,339,Delayed
+4,8,Snow,934,Delayed
+0,9,Snow,480,Delayed
+2,9,Partly Cloudy,894,Delayed
+2,4,Fog,394,Delayed
+0,4,Cloudy,331,On-Time
+5,3,Sunny,339,Delayed
+5,7,Thunderstorm,52,Delayed
+4,4,Thunderstorm,680,On-Time
+1,4,Sunny,557,On-Time
+0,5,Sunny,504,On-Time
+5,10,Sunny,850,On-Time
+2,4,Cloudy,799,On-Time
+1,7,Snow,58,Delayed
+2,7,Rain,248,Delayed
+1,8,Snow,832,Delayed
+3,2,Cloudy,492,Delayed
+1,7,Partly Cloudy,797,Delayed
+3,9,Heavy Rain,844,Delayed
+0,10,Fog,731,Delayed
+3,2,Partly Cloudy,125,On-Time
+2,6,Heavy Rain,422,Delayed
+4,3,Sunny,389,On-Time
+0,1,Sunny,804,Delayed
+1,8,Partly Cloudy,515,Delayed
+4,6,Thunderstorm,249,Delayed
+0,2,Snow,922,Delayed
+3,2,Heavy Rain,619,Delayed
+4,9,Fog,969,Delayed
+3,2,Rain,633,Delayed
+1,1,Thunderstorm,262,Delayed
+3,6,Rain,899,Delayed
+0,9,Partly Cloudy,115,Delayed
+3,10,Rain,121,On-Time
+3,3,Heavy Rain,439,Delayed
+3,2,Fog,203,On-Time
+0,9,Snow,293,Delayed
+5,9,Sunny,100,Delayed
